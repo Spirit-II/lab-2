@@ -15,8 +15,10 @@
 ### Тестирование
 
 Скриншоты результата работы программы 
+![Скриншот 02-03-2026 221257](https://github.com/user-attachments/assets/99146055-53de-45f0-a686-af51f4ea246d)
 
 # Задача 2
+
 
 ## Задача 1. List.fold
 
@@ -31,3 +33,6 @@
 ### Тестирование
 
 Скриншоты результата работы программы
+<img width="609" height="69" alt="изображение" src="https://github.com/user-attachments/assets/eb98c7fa-3684-4699-ba20-b228d1edd75d" />
+
+
